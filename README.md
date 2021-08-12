@@ -1,4 +1,4 @@
-### Hi there 👋
+![one-cost-abs](https://user-images.githubusercontent.com/629075/129284146-6dccb816-41e0-4853-a462-4dd41772291d.jpg)
 
 <!--
 **lifning/lifning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
